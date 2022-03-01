@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The  antelope's evidence; or, An experimental and ocular demonstration of the goodness and excellency of mill'd-lead-sheathing, above that of wood. Wherein is also prov'd, that it is much cheaper at 14d. a foot, the rate publish'd, than wood-sheathing, if it were reckon'd but at 7d. a foot. The lead being consider'd only to last no longer than an ordinary wood-sheathing, tho' 'tis evident it would outlast many of the best that were ever put on.</title>
+            <author>Hale, Charles, Mr.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23838</idno>
+            <idno type="STC">Wing H220</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.7[126]</idno>
+            <idno type="STC">ESTC R226294</idno>
+            <idno type="EEBO-CITATION">99886627</idno>
+            <idno type="PROQUEST">ocm99886627</idno>
+            <idno type="VID">187555</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23838)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187555)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C8:1[129])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The  antelope's evidence; or, An experimental and ocular demonstration of the goodness and excellency of mill'd-lead-sheathing, above that of wood. Wherein is also prov'd, that it is much cheaper at 14d. a foot, the rate publish'd, than wood-sheathing, if it were reckon'd but at 7d. a foot. The lead being consider'd only to last no longer than an ordinary wood-sheathing, tho' 'tis evident it would outlast many of the best that were ever put on.</title>
+                  <author>Hale, Charles, Mr.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>a third time published with additions.</edition>
+               </editionStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London, :</pubPlace>
+                  <date>printed 16 May, 1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Charles Hale. Cf. Wing (CD-Rom, 1996).</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>With MS. notations.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sheet-lead --  England --  Early works to 1800.</term>
+               <term>Shipbuilding --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="title_page">
+            <pb facs="tcp:187555:1" rendition="simple:additions"/>
+            <head>THE Antelope's Evidence; <add>a third time published with additions.</add> OR, <hi>An Experimental and Ocular Demonſtration</hi> Of the Goodneſs and Excellency of MILL'D-LEAD-SHEATHING, Above that of WOOD.</head>
+            <head type="sub">Wherein is alſo prov'd, that It is much <hi>Cheaper</hi> at 14 <hi>d.</hi> a foot, the Rate publiſh'd, THAN <hi>Wood-ſheathing,</hi> if it were reckon'd but at 7 <hi>d.</hi> a foot.</head>
+            <head type="sub">The <hi>Lead</hi> being conſider'd only to laſt no longer than an Ordi<g ref="char:EOLhyphen"/>nary <hi>Wood-ſheathing,</hi> tho' 'tis evident it would Outlaſt many of the Beſt that were ever put on.</head>
+            <p>THIS Ship was Sheath'd with Mill'd Lead in <hi>March,</hi> 1694/5; the firſt Summer ſhe was employ'd in the King's Service, and then upon her return ſent by her Owners a Voyage to the <hi>East Indies,</hi> from whence alſo being return'd, and put into Mr. <hi>Snelgrove</hi>'s Dock, in <hi>March</hi> 1697/8, where ſhe was view'd by the Navy-Board, 9th of <hi>April,</hi> and has been ſeen by many others before and ſince, and ſtill remaining there, and likely ſo to continue for ſome time yet, any body elſe that pleaſes may view the Succeſs of her Lead-ſheathing, which they will find (tho' ſhe had dangerouſly ſtrook on ground) to lye on all about her Bildge and Keel, and quite throughout, for any defect in the Sheathing it ſelf, as firm and well as at firſt do<g ref="char:EOLhyphen"/>ing, and the Ruddar-Irons under it being parcell'd, preſerv'd ſound and not ſo much as touch'd with Ruſt, but altogether as good as at firſt put<g ref="char:EOLhyphen"/>ting on above three years ago; as appear'd upon ſtripping the Lead off a Brace, and a Stirrup of the Sterne-poſt, by the Commiſſioners dire<g ref="char:EOLhyphen"/>ctions, which this innocent Sheathing has been ſo obſtinately charg'd by its Enemies to eat and corrode in ſo extraordinary a manner, and ſuch Concluſions drawn from thence, that it has ſuffer'd under the Tyranny of this falſe and groundleſs Suggeſtion (and this alone) to the great Loſs of the Public, and Injury of the Inventor, almoſt theſe Twen<g ref="char:EOLhyphen"/>ty Years, all other Objections, as rubbing off by Cables, Hawſers, Boats and Lyters, lying on ground, Shortneſs and Smallneſs of the Nails, and whatever its Enemies could invent, being remov'd long ago by ſuffi<g ref="char:EOLhyphen"/>cient Proof and Five Years Experience upon Ten Ships ſheath'd in that time, to the former Navy-board's full ſatisfaction; as they declar'd in
+<pb n="2" facs="tcp:187555:2" rendition="simple:additions"/>the Preamble of their Contract, tho the ſame Surmiſes have upon all occaſions been renew'd again, which, it is to be hoped, this preſent <hi>Evidence</hi> will ſilence for the future. They ſtripp'd ſome Boltheads alſo that were not parcell'd under the Lead, which were very ſound. As for the Pintels and Braces of the Ruddar that lay naked to the Wa<g ref="char:EOLhyphen"/>ter, they are, as uſual, ſomewhat eaten with Ruſt, but nothing extra<g ref="char:EOLhyphen"/>ordinary, and with only new nailing the Braces all may be made good again for further Service: and had theſe Braces, as well as thoſe on the Sterne-poſt, been parcell'd and cover'd with the Lead, doubt<g ref="char:EOLhyphen"/>leſs they would have been preſerv'd ſound as thoſe others were. They will find ſome ſmall Cracks in the Sheathing, occaſion'd by the Ship's opening her Seams in working, which cloſing when ſhe comes to rights again, are little damage, no Worm having enter'd there; as ap<g ref="char:EOLhyphen"/>pear'd upon the Commiſſioners ſearching and dubbing about ſeveral of them. There was one place off on her Larboard ſide (by ſome un<g ref="char:EOLhyphen"/>known Accident) about the bigneſs of a Crown-piece, where the Worm having eaten, the Commiſſioners cauſed the Plank to be dubbed, but it went ſo little a way in, and not further than the bare place, that the Worm-holes, which were but ſmall, were quickly dubbed out: and 'tis obſervable, whenever any Lead happens to be off, the Worm eats but little in, and never goes under the Sheathing beyond the naked place. There is alſo one place rubb'd off at the end of the Keel, where the Worm had eaten, which happen'd at her firſt going out of the Dock; and another about a hands breadth, on the Larboard ſide, at her return in, no Worm having touched there; and ſeveral ſmall places torn by the Anchor; all which (if not by Care prevented, where ſuch Accidents happen) would damage a Wood-ſheathing as bad, and pro<g ref="char:EOLhyphen"/>bably much worſe, by rending and ſhattering the Boards. They will find ſeveral places indeed off above, where the Wood-ſheathing was nail'd over it, upon pretence to defend it from Boats and Lyters, which being much Worm-eaten, ſhatter'd, and torn off, ſome of the Lead-ſheath<g ref="char:EOLhyphen"/>ing that lay under it came off with it. Moreover, they will find this Lead-ſheathing fouls but very little; and when foul, eaſily clean'd; which with its ſmooth and thin lying on, muſt be an advantage to a Ship's ſailing.</p>
+            <p>As to the <hi>Cheapneſs;</hi> Suppoſe ſuch a Ship as the <hi>Antelope</hi> to meaſure 5400 foot, which at 14 <hi>d.</hi> a foot amounts to 315 <hi>l.</hi> of which, if a fourth part 78 <hi>l.</hi> 15 <hi>s.</hi> be allow'd for the Old Sheathing when ſtripp'd, the Charge of this Lead-ſheathing would be but 236 <hi>l.</hi> 5 <hi>s.</hi> Suppoſe alſo that this 5400 foot, to be ſheath'd with Wood, would coſt but 7 <hi>d.</hi> a foot, which amounts to 157 <hi>l.</hi> 10 <hi>s.</hi> and that this Sheathing be allow'd to laſt Two Voyages to the <hi>Streights,</hi> or elſewhere, (ſome laſt but One, and Two of thoſe Sheathings being of equal price to a Lead-ſheathing, certainly the Graving ſav'd in two Voyages, and the Value of the Old Lead, when ſtripp'd, will abundantly pay the Intereſt of 157 <hi>l.</hi> 10 <hi>s.</hi> the Price of the ſecond Sheathing, for a Year, or a little more, till it ſhall be call'd for;) and the Lead-ſheathing ſhould be alſo ſtripp'd at the ſame time, this would exceed the Wood-ſheathing but 78 <hi>l.</hi> 15 <hi>s.</hi> which Summ doubled, perhaps, would not defray the Charge of Graving for theſe two Voyages; ſo that the Lead-ſheathing muſt be conſiderably cheaper, with ſufficient allowance for the Intereſt of 78 <hi>l.</hi> 15 <hi>s.</hi> remainder of the exceſs
+<pb n="3" facs="tcp:187555:2" rendition="simple:additions"/>of the firſt Charge, after the 78 <hi>l.</hi> 15 <hi>s.</hi> be deducted for the Old Sheath<g ref="char:EOLhyphen"/>ing; and if Rebate be allow'd for that till ſtripping, it cannot come to ſo much as the Intereſt of the Mony disburs'd from time to time for the Graving till both ſhall be ſtripp'd. But this Nicety of Compu<g ref="char:EOLhyphen"/>tation ſeems very impertinent, where ſo many and ſo great Advantages may be charg'd to the Accompt of Lead-ſheathing, from its long dura<g ref="char:EOLhyphen"/>tion, no Trouble nor Charge in graving, its little fouling, and very lit<g ref="char:EOLhyphen"/>tle trouble or charge in cleaning, no damage to the Plank, as by the great Iron Nails of the other; but, in truth, preſerving it better, more cool, ſmooth, and ſound, and the Oakam longer in the Seams than a Wood-ſheathing can, be<g ref="char:EOLhyphen"/>ſides its certain Security againſt the Worm: All which, as well as the Par<g ref="char:EOLhyphen"/>ticulars above-mention'd, is prov'd by full Certificates of the Commander and Officers of the <hi>Antelope,</hi> and ſuch experienc'd <hi>Maſters</hi> and <hi>Comman<g ref="char:EOLhyphen"/>ders</hi> of Ships as were preſent when the Commiſſioners view'd her Sheathing, and many others that have ſeen it ſince. This Nicety, I ſay, to prove its Cheapneſs, one would think, were needleſs; but that it hath ſo long labour'd under Prejudice, by the falſe Suggeſtions of its Adverſaries, againſt which it could be reliev'd only by Patience to wait for new Tryals, and viſible Demonſtrations of its Goodneſs, from new Ex<g ref="char:EOLhyphen"/>periments to be made, the former being long ſince put out of the reach of Evidence, and its Enemies thereby encourag'd to raiſe Stories to for<g ref="char:EOLhyphen"/>tifie their Clamour againſt it, till this Tryal upon the <hi>Antelope,</hi> which proves to the World the Excellency of this Sheathing, and clearly an<g ref="char:EOLhyphen"/>ſwers all Objections againſt its Goodneſs; its <hi>Dearneſs</hi> now, which was never thought of before, is ſtarted to hinder its progreſs; tho' 'twould be very ridiculous for any one to pretend by any Invention to introduce a New Thing into uſe, and not to make it conſiderably <hi>cheaper,</hi> in one reſpect or other, as well as <hi>better,</hi> than that inſtead of which he propoſes it to be us'd, for <hi>dear</hi> and <hi>cheap</hi> are relative Words, there being nothing <hi>dear or cheap in it ſelf;</hi> and ſure no-body expects a Plain to be cover'd with Lead as cheap as with Boards at the firſt penny: yet if he con<g ref="char:EOLhyphen"/>ſults nothing of the Advantages above-mention'd, but its Duration only, he'll quickly find this Sheathing is Cheap enough, if he can be conten<g ref="char:EOLhyphen"/>ted to have it for Nothing; for the Graving upon his Wood-ſheathing being ſav'd, in leſs than Seven Years time, will more than pay for the Lead-ſheathing it ſelf; and he may uſe it Seven Years more for Nothing, as it may prove, (this Lead preſerving the Plank, Seams, and Iron-work better than the other, as above) beſides the total loſs of his 157 <hi>l.</hi> 10 <hi>s.</hi> which the Wood-ſheathing coſt him out of his Pocket at firſt.</p>
+            <p>As the Shipwrights and their Friends, by their Artifice, Intereſt, and Falſe Suggeſtions (taking advantage of Differences that happen'd between the <hi>Mill'd-Lead-Partners</hi> themſelves, neglecting due Care in their Common Concern) have been able to procure the diſcontinuance of the Lead-ſheath<g ref="char:EOLhyphen"/>ing with <hi>this Navy-board's Predeceſſors,</hi> no Ship remaining Sheath'd for themſelves to view, that they might judge of the Truth and Validity of the Objections rais'd againſt it, ſo it is not to be doubted, now that they have ſeen this Evidence upon the <hi>Antelope</hi>'s Sheathing, and conſider'd the great Benefit that may accrew to the King's Service, as well as to the Publick in general, but they will in due time reſtore the uſe thereof to the Navy.</p>
+            <pb n="4" facs="tcp:187555:3" rendition="simple:additions"/>
+            <p> The like alſo has been the Endeavour of the <hi>Plumbers</hi> and their Friends, to decry the Uſe of this <hi>Mill'd Lead</hi> for Buildings, and have in great mea<g ref="char:EOLhyphen"/>ſure obſtructed it (where they have had an Intereſt, or been believ'd) with Private Perſons, as well as in the King's and Publick Works, but could not prevail with the Impartial and Honourable Commiſſioners for <hi>Greenwich Hoſpital,</hi> when they plainly ſaw the Advantage that would ac<g ref="char:EOLhyphen"/>crew to the Charity they were entruſted with, by preferring the Uſe of this <hi>Mill'd Lead</hi> in their Works, tho' great Applications were made even by the Corporation of <hi>Plumbers,</hi> and the Beſt Friends they could make.</p>
+            <p>☞ <hi>All ſuch as have occaſion for this</hi> Mill'd-Lead-Sheathing, <hi>which per<g ref="char:EOLhyphen"/>haps may be better done upon the Careen, with leſs Charge to the Owner than in a Dock; or for any Other Sort of</hi> Mill'd Lead, <hi>of any thick<g ref="char:EOLhyphen"/>neſs, and the uſual breadth of three foot and an half, twice as long as any</hi> Plumber <hi>pretends to caſt, if need require, for covering Churches, Houſes, and all Works wherein</hi> Sheet-Lead <hi>is us'd, and ſome that caſt Lead is not capable of, Better, and above</hi> 20 per Cent. <hi>Cheaper, than</hi> Caſt-Lead <hi>can be; as is prov'd in a ſmall Book, wherein alſo is an Account of the former Proceedings about the</hi> Mill'd-Lead-Sheathing <hi>and other matters, to be had at the Bookſellers following,</hi> viz. <hi>Mr.</hi> Nelme<hi>'s, at the Leg and Star in</hi> Cornhill; <hi>Mr.</hi> Simpſon<hi>'s, at the Harp in St.</hi> Paul<hi>'s Church-yard; Mr.</hi> Baſſet<hi>'s, at</hi> Temple-bar; <hi>and Mr.</hi> Henchman<hi>'s, in</hi> Weſtminſter-hall:</p>
+            <p>
+               <hi>Mr.</hi> Hale, <hi>at the</hi> Mill'd-Lead <hi>Sign in</hi> Orange-ſtreet, <hi>by</hi> Red-Lyon-Square, <hi>undertakes Any of the ſaid Works, having able</hi> Plumbers, <hi>and Workmen ſufficient to perform the ſame; and ſells his Solder for</hi> 6 d. <hi>a pound, which the</hi> Plumbers <hi>by Combi<g ref="char:EOLhyphen"/>nation ſell for</hi> 9 d.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed 16 <hi>May,</hi> 1698.</p>
+            <pb facs="tcp:187555:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
